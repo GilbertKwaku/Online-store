@@ -1,0 +1,37 @@
+/* Shop header */
+
+#Shop-backgroundImg-header {
+    background-image: url(Imgs/Shop/happy-joyful-afro-woman-dances-with-triumph-against-clothes-rack-prefers-outfits-yellow-colour-wears-fashionable-jacket-jeans-moves-actively-near-home-wardrobe.jpg);
+    /* width: 100%; */
+    height: 30vh;
+    background-position: top 18% left 20%;
+    background-size: cover;
+    text-align: center;
+    padding: 5%;
+    font-family: 'Josefin Sans', sans-serif;
+    line-height: 2;
+}
+
+.shop-h5 {
+    font-size: 1.5rem;
+    color: #fff;
+    text-shadow: 1px 1px #000;
+}
+
+#Shop-backgroundImg-header h2 {
+    color: #fff;
+    /* text-align: center; */
+    font-size: 3rem;
+    font-weight: 700;
+    text-shadow: 1px 1px #000;
+}
+
+#Shop-backgroundImg-header span {
+    color: #C51605;
+}
+
+#Shop-backgroundImg-header div {
+    position: relative;
+    /* background-color: black; */
+    top: 25%;
+}
